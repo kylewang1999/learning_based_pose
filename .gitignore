@@ -1,0 +1,19 @@
+*.aux
+*.fdb*
+*.log
+*.out
+*.gz
+*.fls
+*.DS
+
+# Large file formats
+*.npz
+*.pth
+*.run
+*deb
+
+/models
+/testing_data*
+/training_data*
+/exp*
+/torch*
