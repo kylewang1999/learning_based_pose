@@ -13,4 +13,3 @@ For each of the 23 objects in the scene, IFP (iterative-farthest-point) sampling
 ## Visualization
 
 ![overview](./imgs/output.png)
-# learning_based_pose
